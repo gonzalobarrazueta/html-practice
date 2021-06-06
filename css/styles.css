@@ -1,6 +1,4 @@
-* {
-    border: 2px solid brown;
-}
+
 
 #logo {
     width: 50px;
@@ -19,6 +17,8 @@ section {
 
 input {
     width: 100%;
+    border: 2px solid cadetblue;
+    border-radius: 2px;
 }
 
 #sectionRight {
